@@ -7,10 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewConsole", "Intervi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeService", "EmployeeService\EmployeeService.csproj", "{80446DAE-C95C-4208-9BB4-A2064ED0BA43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{A7A67AE9-5FEE-4225-848D-495A9A4C7574}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{80428C38-541B-4655-9C40-9A69846B996D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,14 +21,6 @@ Global
 		{80446DAE-C95C-4208-9BB4-A2064ED0BA43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80446DAE-C95C-4208-9BB4-A2064ED0BA43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80446DAE-C95C-4208-9BB4-A2064ED0BA43}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A7A67AE9-5FEE-4225-848D-495A9A4C7574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A7A67AE9-5FEE-4225-848D-495A9A4C7574}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A7A67AE9-5FEE-4225-848D-495A9A4C7574}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A7A67AE9-5FEE-4225-848D-495A9A4C7574}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80428C38-541B-4655-9C40-9A69846B996D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80428C38-541B-4655-9C40-9A69846B996D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80428C38-541B-4655-9C40-9A69846B996D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80428C38-541B-4655-9C40-9A69846B996D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
